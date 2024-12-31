@@ -47,4 +47,4 @@ yarn-error.log
 /.vscode
 /.zed
 
-backend/.env.example
+# backend/.env.example
